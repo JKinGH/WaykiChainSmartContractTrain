@@ -1,7 +1,12 @@
 # WaykiChainSmartContractTrain
 
-##  3.24线下沙龙第二次开课说明
+---
+##  3.17线下沙龙第一次开课说明
+### 课程现场操作流程 https://docs.qq.com/doc/DRkREZXpGUUpGakta?opendocxfrom=admin
+### 课程现场PPT[链接](./FristClass/【技术沙龙1】肖老师0316.ppt)
 
+---
+##  3.24线下沙龙第二次开课说明
 ### 课前准备工作
 1.确保第一节课区块链知识、节点部署、节点RPC操作方法调用已熟练掌握
 
